@@ -3,3 +3,4 @@ mock>=1.0.1
 coverage
 nose
 tox
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
