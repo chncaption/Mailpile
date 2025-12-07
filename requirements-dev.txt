@@ -18,3 +18,4 @@ fasteners
 win_inet_pton; sys_platform == 'win32'
 stem>=1.4
 icalendar
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
